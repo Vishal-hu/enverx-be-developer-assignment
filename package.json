@@ -1,0 +1,27 @@
+{
+  "name": "enverx-be-developer-assignment",
+  "version": "1.0.0",
+  "description": "[![N|Solid](https://iili.io/Hi9giog.png)](https://www.enverx.com/)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishal-hu/enverx-be-developer-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishal-hu/enverx-be-developer-assignment/issues"
+  },
+  "homepage": "https://github.com/Vishal-hu/enverx-be-developer-assignment#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.3"
+  }
+}
