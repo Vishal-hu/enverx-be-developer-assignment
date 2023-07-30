@@ -1,3 +1,30 @@
+## Steps for running project 
+
+ 1. Clone my assignment from https://github.com/Vishal-hu/enverx-be-developer-assignment/tree/development
+ 2. Create a .env file in uppermost folder structure of project
+ 3. Add values in .env file
+ ```
+ PORT=8000
+SECRET_KEY='ENVERXDEMO'
+MONGO_URI='mongodb+srv://Vishal:Vishal12345678@cluster0.xmemq.mongodb.net/enverxDB?retryWrites=true&w=majority' 
+```
+4. Run command ``npm install``
+5. Start Project using ``npm start``
+## Test APIs
+To test the APIs follow the below postman published documentation 
+https://documenter.getpostman.com/view/14048501/2s9Xxtxabu
+
+
+
+
+
+
+
+
+
+
+
+
 [![N|Solid](https://iili.io/Hi9giog.png)](https://www.enverx.com/)
 
 EnverX offers a simple and convenient platform to fund early-stage projects
